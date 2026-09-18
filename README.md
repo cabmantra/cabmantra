@@ -1,16 +1,28 @@
-## Hi there 👋
+# CabMantra
 
-<!--
-**cabmantra/cabmantra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+CabMantra is a travel and pilgrimage services platform helping travelers
+arrange cabs, hotels, puja services and VIP darshan across India.
 
-Here are some ideas to get you started:
+## Travel Services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Cab booking
+- Outstation taxi services
+- Hotel assistance
+- Pujan services
+- VIP Darshan
+- Pilgrimage travel
+
+## Popular Destinations
+
+- Ujjain
+- Varanasi
+- Ayodhya
+- Char Dham
+- Vaishno Devi
+- Tirupati
+- Somnath
+- Dwarka
+
+## Website
+
+[Visit CabMantra](https://cabmantra.com/)
